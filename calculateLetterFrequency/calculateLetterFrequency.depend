@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1454145334 source:/home/warrior/gitDir/cpptest/calculateLetterFrequency/calculateLetterFrequency.cpp
+	"calculateLettterFrequency.h"
+
+1454145032 /home/warrior/gitDir/cpptest/calculateLetterFrequency/calculateLettterFrequency.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1454145503 source:/home/warrior/gitDir/cpptest/calculateLetterFrequency/main.cpp
+	"calculateLettterFrequency.h"
+

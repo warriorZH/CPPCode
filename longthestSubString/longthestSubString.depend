@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1458797133 source:/home/warrior/gitDir/CPPCode/longthestSubString/main.cpp
+	"vectorSubString.h"
+	<iostream>
+	<string>
+	"boost/regex.hpp"
+
+1458797104 /home/warrior/gitDir/CPPCode/longthestSubString/vectorSubString.h
+	<iostream>
+	<vector>
+	<boost/regex.hpp>
+	<string>
+
+1458796970 source:/home/warrior/gitDir/CPPCode/longthestSubString/vectorSubString.cpp
+	"vectorSubString.h"
+

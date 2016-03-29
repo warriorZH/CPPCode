@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1456058757 source:/home/warrior/gitDir/cpptest/mergeSort/iteraMerge.cpp
+	"iteraMerge.h"
+	"recurMerge.h"
+
+1456058209 /home/warrior/gitDir/cpptest/mergeSort/iteraMerge.h
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<fstream>
+
+1456058997 source:/home/warrior/gitDir/cpptest/mergeSort/main.cpp
+	"recurMerge.h"
+	"iteraMerge.h"
+
+1456059019 /home/warrior/gitDir/cpptest/mergeSort/recurMerge.h
+	<iostream>
+	<stdio.h>
+	<fstream>
+
+1456059097 source:/home/warrior/gitDir/cpptest/mergeSort/recurMerge.cpp
+	"recurMerge.h"
+

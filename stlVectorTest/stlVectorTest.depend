@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1456840556 source:/home/warrior/gitDir/cpptest/stlVectorTest/main.cpp
+	<iostream>
+	<string>
+	<vector>
+

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="THUparticiple" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/THUparticiple" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/THUparticiple" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="cb_decoder.h" />
+		<Unit filename="cb_model.h" />
+		<Unit filename="cb_ngram_feature.h" />
+		<Unit filename="cb_tagging_decoder.h" />
+		<Unit filename="cb_tagging_learner.h" />
+		<Unit filename="dat.h" />
+		<Unit filename="filter.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="negword.h" />
+		<Unit filename="postprocess.h" />
+		<Unit filename="preprocess.h" />
+		<Unit filename="punctuation.h" />
+		<Unit filename="thulac.cpp" />
+		<Unit filename="thulac_base.h" />
+		<Unit filename="thulac_character.h" />
+		<Unit filename="thulac_raw.h" />
+		<Unit filename="timeword.h" />
+		<Unit filename="train_c.cpp" />
+		<Unit filename="verbword.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

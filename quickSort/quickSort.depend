@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1455956797 source:/home/warrior/gitDir/cpptest/quickSort/CPPStack.cpp
+	"CPPStack.h"
+
+1455947286 /home/warrior/gitDir/cpptest/quickSort/CPPStack.h
+	<iostream>
+	<stdio.h>
+
+1456056663 source:/home/warrior/gitDir/cpptest/quickSort/main.cpp
+	"CPPStack.h"
+	"quickSort.h"
+
+1455956059 source:/home/warrior/gitDir/cpptest/quickSort/quickSort.cpp
+	"quickSort.h"
+	"CPPStack.h"
+
+1455948852 /home/warrior/gitDir/cpptest/quickSort/quickSort.h
+	<iostream>
+	<stdio.h>
+

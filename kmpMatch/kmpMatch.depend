@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1457846931 source:/home/warrior/gitDir/CPPCode/kmpMatch/kmp.cpp
+	"kmp.h"
+
+1457835672 /home/warrior/gitDir/CPPCode/kmpMatch/kmp.h
+	<iostream>
+	<stdio.h>
+	<string>
+
+1457838702 source:/home/warrior/gitDir/CPPCode/kmpMatch/main.cpp
+	"kmp.h"
+	<string.h>
+

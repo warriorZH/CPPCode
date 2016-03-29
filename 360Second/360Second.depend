@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1459170041 source:/home/warrior/gitDir/CPPCode/360Second/main.cpp
+	<iostream>
+	<list>
+	<algorithm>
+	<string>
+

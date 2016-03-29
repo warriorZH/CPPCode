@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1456923568 source:/home/warrior/gitDir/cpptest/stlListTest/main.cpp
+	<iostream>
+	<list>
+	<algorithm>
+

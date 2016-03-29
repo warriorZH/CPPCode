@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1458829057 source:/home/warrior/gitDir/CPPCode/maxSubArry/main.cpp
+	"maxSubArry.h"
+
+1458828808 /home/warrior/gitDir/CPPCode/maxSubArry/maxSubArry.h
+	<list>
+	<iostream>
+	<string>
+	"boost/regex.hpp"
+	"boost/lexical_cast.hpp"
+	<cstdlib>
+	<sstream>
+
+1458829723 source:/home/warrior/gitDir/CPPCode/maxSubArry/maxSubArry.cpp
+	"maxSubArry.h"
+
